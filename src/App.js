@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './components/Header';
 import ControlledComponentForm from './components/ControlledComponentForm';
+import UncontrolledComponentForm from './components/UncontrolledComponentForm';
 
 class App extends Component {
   render() {
@@ -9,7 +10,8 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <Header />
-          <ControlledComponentForm />
+          {/* <ControlledComponentForm /> */}
+          <UncontrolledComponentForm />
         </header>
       </div>
     );

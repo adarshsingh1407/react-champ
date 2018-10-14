@@ -104,7 +104,7 @@ class ControlledComponentForm extends Component {
       </Row>
       <Row>
         <Col md={12}>
-          <Button bsStyle="primary" onClick={this.handleSubmit}>Submit</Button>
+          <Button disabled={!(name.length > 0)} bsStyle="primary" onClick={this.handleSubmit}>Submit</Button>
         </Col>
       </Row>
     </div>);
