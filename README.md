@@ -1,6 +1,6 @@
-###Sample Code for React Champ Tutorials
+# Sample Code for React Champ Tutorials
 
-##Medium Blogs
+### Medium Blogs
 
 https://medium.com/@adarshsingh1407/react-champ-part-i-controlled-vs-uncontrolled-components-9af452277d79
 
