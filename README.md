@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App 2.0](https://github.com/facebook/create-react-app).<br>
-Requires Node version > 6
+###Sample Code for React Champ Tutorials
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
+##Medium Blogs
+
+https://medium.com/@adarshsingh1407/react-champ-part-i-controlled-vs-uncontrolled-components-9af452277d79
+
+https://medium.com/@adarshsingh1407/react-champ-part-ii-when-to-use-controlled-uncontrolled-components-870f42cf398
